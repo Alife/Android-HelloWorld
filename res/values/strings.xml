@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_button_button3">列表</string>
+    <string name="title_button_button5">按钮5</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_webview_">浏览器</string>
+    <string name="title_activity_web_view_client">嵌入式浏览器</string>
+    <string name="title_activity_phone_info">手机信息</string>
+    <string name="title_activity_capture">二维码</string>
+    <string name="title_voiceRecognition">语音识别</string>
+    <string name="title_VoiceSave">录音</string>
+    
+</resources>
