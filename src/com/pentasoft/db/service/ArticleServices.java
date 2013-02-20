@@ -55,8 +55,7 @@ public class ArticleServices {
 	private List<Article> parseArticleList(String json) {
 		List<Article> result = null;
 
-		Log.v("json:", json);
-		System.out.println(json);
+		Log.d("json:", json);
 
 		List<Article> list = JSON.parseArray(json, Article.class);
 		for (Article rss : list) {
